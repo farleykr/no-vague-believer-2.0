@@ -3,7 +3,8 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Jigsaw',
-    'description' => 'Website description.',
+    'author' => 'Farley Reynolds',
+    'title' => 'No Vague Believer',
+    'description' => 'Essays from the standpoint of Christian orthodoxy',
     'collections' => [],
 ];
