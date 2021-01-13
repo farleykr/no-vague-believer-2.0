@@ -7,9 +7,8 @@
                 <label class="block" for="tlemail">Email address:</label>
                 <input class="block m-2 border border-gray-200 mx-auto text-center" type="text" name="email" id="tlemail"/>
                 <input type="hidden" value="1" name="embed"/>
-                <h6 class="tracking-widest">
-                    <input class="block mx-auto px-2 border border-gray-200 shadow-sm" type="submit" value="subscribe"/>
-                </h6>
+                <button class="block mx-auto px-2 border border-gray-200 shadow-sm font-sans uppercase" type="submit" value="subscribe"/>Subscribe
+                </button>
             </form>
             <p>
                 <a href="https://tinyletter.com" target="_blank">(powered by TinyLetter)</a>

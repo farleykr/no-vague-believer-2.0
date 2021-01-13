@@ -9,13 +9,17 @@
 }
 
 @font-face {
-    font-family: addington-reg;
-    src: url('../fonts/AddingtonCF-Regular.woff2') format('woff2'),
-         url('../fonts/AddingtonCF-Regular.woff') format('woff');
+    font-family: couplet-reg;
+    src: url('../fonts/CoupletCF-Regular.woff2') format('woff2'),
+         url('../fonts/CoupletCF-Regular.woff') format('woff');
 }
 
 html {
     font-size: 20px;
+}
+
+.font-sans {
+    font-family: couplet-reg;
 }
 
 h1, h2, h3, h4, h5, h6 {

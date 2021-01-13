@@ -4,9 +4,9 @@
 <div class="px-2">
     <section id="newest" class="mb-12">
         <div class="text-center my-20">
-            <p class="uppercase font-sans">Newest Essay</p>
-            <h1 class="text-4xl leading-9 py-4">{{ $essays->first()->title }}</h1>
-            <date class="block mb-3 font-sans">{{ date('m/d/Y', $essays->first()->date) }}</date>
+            <p class="uppercase font-sans tracking-wider">Newest Essay</p>
+            <h1 class="text-5xl leading-none py-4">{{ $essays->first()->title }}</h1>
+            <date class="block mb-3 font-sans tracking-wide">{{ date('F j, Y', $essays->first()->date) }}</date>
         </div>
         <div class="essay-body">
             <aside class="mb-4 py-3 text-gray-500 text-center border-t border-b border-gray-200">
@@ -14,7 +14,7 @@
                     <p class="italic">{{ $essays->first()->verse }}</p>
                 @endif
                 @if ($essays->first()->citation)
-                    <p>&mdash; {{ $essays->first()->citation }} &mdash;</p>
+                    <p class="font-sans">&mdash; {{ $essays->first()->citation }} &mdash;</p>
                 @endif
             </aside>
             {!! $essays->first()->getContent() !!}

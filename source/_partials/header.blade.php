@@ -3,8 +3,8 @@
         <h2 class="text-lg uppercase underline">
             <a href="/">No Vague Believer</a>
         </h2>
-        <button class="px-2 border border-gray-100">
-            <h6><a href="#subscribe">subscribe</a></h6> 
+        <button class="px-2 border border-gray-100 font-sans uppercase">
+            <a href="#subscribe">subscribe</a> 
         </button>
     </div>
 </header>
