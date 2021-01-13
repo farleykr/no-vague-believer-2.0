@@ -14,7 +14,7 @@
                 <date class="block mb-2 font-sans tracking-wide">{{ date('F j, Y', $essay->date) }}</date>
                 </div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quibusdam officiis numquam, recusandae at voluptatum placeat. Consequuntur facilis libero minus!
+                    {{ $essay->getExcerpt() }}...
                 </p>
                 <a class="block italic text-right font-sans" href="{{ $essay->getUrl() }}">
                     <span class="underline">read</span> &rarr;
