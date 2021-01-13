@@ -10,9 +10,13 @@
         <title>{{ $page->title }}</title>
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
-    <body class="text-gray-900 font-sans antialiased">
-        <main class="max-w-xl m-auto">
-            @yield('body')
-        </main>
+    <body class="flex flex-col h-screen text-gray-900 font-sans antialiased">
+        <div class="overflow-auto">
+            @include('_partials.header')
+            <main class="flex-grow max-w-xl m-auto">
+                @yield('body')
+            </main>
+            @include('_partials.footer')
+        </div>
     </body>
 </html>

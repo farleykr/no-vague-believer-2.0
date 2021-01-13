@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('body')
-<div class="p-4">
+<div class="p-2 mb-24">
     <section id="newest" class="mb-24">
         <div class="text-center my-20">
             <p class="uppercase">Newest Essay</p>
@@ -25,7 +25,7 @@
         </div>
     </section>
     
-    <section id="archive mb-24">
+    <section id="archive">
         <p class="pb-4 uppercase text-center border-b border-gray-900">All Other Essays</p>
         <ul>
             @foreach($essays as $essay)
