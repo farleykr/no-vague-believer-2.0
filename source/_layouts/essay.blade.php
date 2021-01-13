@@ -3,7 +3,7 @@
 @section('body')
 <div class="p-2">
     <section id="newest" class="mb-12">
-        <div class="text-center my-20">
+        <div class="text-center my-16">
             <h1 class="text-4xl leading-9 py-4">{{ $page->title }}</h1>
             <date class="block mb-3 font-sans tracking-wide">{{ date('F j, Y', $page->date) }}</date>
         </div>

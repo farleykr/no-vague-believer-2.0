@@ -16,7 +16,9 @@
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quibusdam officiis numquam, recusandae at voluptatum placeat. Consequuntur facilis libero minus!
                 </p>
-                <a class="block italic text-right font-sans" href="{{ $essay->getUrl() }}">read &rarr;</a>
+                <a class="block italic text-right font-sans" href="{{ $essay->getUrl() }}">
+                    <span class="underline">read</span> &rarr;
+                </a>
             </li>
         @endforeach
     </ul>

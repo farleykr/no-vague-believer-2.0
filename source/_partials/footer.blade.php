@@ -7,6 +7,8 @@
             <br>
             <span class="font-sans">—Flannery O'Connor</span>  
         </p>
-        <p class="font-sans text-right">&#169; 2020—2021, Farley Reynolds</p>
+        <p class="font-sans text-right">
+            <span class="harbour-md">&#169; </span>2020—2021, Farley Reynolds
+        </p>
     </div>
 </footer>
