@@ -2,7 +2,7 @@
 
 @section('body')
 <div class="px-2">
-    <section id="newest">
+    <section id="newest" class="mb-12">
         <div class="text-center my-20">
             <p class="uppercase">Newest Essay</p>
             <h1 class="text-4xl leading-9 my-2">{{ $essays->first()->title }}</h1>
