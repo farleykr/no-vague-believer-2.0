@@ -31168,6 +31168,14 @@ video {
           animation: bounce 1s infinite;
 }
 
+html {
+  font-size: 18px;
+}
+
+.essay-body > p {
+  margin-bottom: 0.5rem
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

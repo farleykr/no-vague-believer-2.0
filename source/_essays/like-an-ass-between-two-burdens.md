@@ -1,6 +1,8 @@
 ---
 layout: essay-layout.njk
 title: Like an Ass Between Two Burdens
+verse: Issachar is a strong ass couching down between two burdens.
+citation: Genesis 49:14
 date: 2021-01-15
 tags: ['essay']
 --- 

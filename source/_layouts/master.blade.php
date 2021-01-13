@@ -11,6 +11,8 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
     <body class="text-gray-900 font-sans antialiased">
-        @yield('body')
+        <main class="max-w-xl m-auto">
+            @yield('body')
+        </main>
     </body>
 </html>
