@@ -1,8 +1,8 @@
 ---
-layout: essay-layout.njk
+extends: _layouts.essay
+section: essay_body
 title: Is the Seed Yet in the Barn?
 date: 2020-12-24
-tags: ['essay']
 --- 
 
 Near the end of the minor prophets, the back forty of the Bible, God asks Haggai: *Is the seed yet in the barn?*  Like a star collapsing on itself, the Old Testament shudders with the gravity of the coming of the Christ.

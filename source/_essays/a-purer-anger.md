@@ -1,8 +1,8 @@
 ---
-layout: essay-layout.njk
+extends: _layouts.essay
+section: essay_body
 title: A Purer Anger
 date: 2020-10-16
-tags: ['essay']
 --- 
 
 Harry Crews, one of my favorite authors, said this about anger:

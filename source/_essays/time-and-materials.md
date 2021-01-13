@@ -1,8 +1,8 @@
 ---
-layout: essay-layout.njk
+extends: _layouts.essay
+section: essay_body
 title: Time and Materials
 date: 2020-12-17
-tags: ['essay']
 --- 
 
 My son is fascinated with garbage trucks and garbage collectors. He's been asking us to bring an old grocery bag with us on our walks around the neighborhood so he can fill it with the litter he finds.  Candy wrappers, old napkins, cigarette butts, crushed cans, and even shoes go in the bag.  If a garbage collector is one who is employed to collect and dispose of garbage, Delton is authenticated as a garbage collector by doing that work. Even if he is self employed.

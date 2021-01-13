@@ -1,8 +1,8 @@
 ---
-layout: essay-layout.njk 
+extends: _layouts.essay
+section: essay_body
 title: Dig, Believer, Dig
 date: 2020-03-20
-tags: ['essay', 'newest']
 --- 
 
 About a month ago I was wracking my brain for something to write about and eventually I turned to my last resort when I can't find an idea to land on: prayer. So I prayed to the Lord and asked him to give me an essay, or at least an idea. This went on for a few days.

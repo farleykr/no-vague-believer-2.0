@@ -1,8 +1,8 @@
 ---
-layout: essay-layout.njk
+extends: _layouts.essay
+section: essay_body
 title: A Death
 date: 2020-05-08
-tags: ['essay']
 --- 
 
 Our next door neighbor was found dead the other day. No one knows when he actually passed. The day was overripe with suburban dread: One of the hottest days of the year so far. The kind of day that invites you outside to celebrate the sun only to push you back inside with an oily sheen on your face and guilt gnawing on the back of your brain over missing the nice weather. The only way to escape the jittery unease on days like that is to be hard at work.

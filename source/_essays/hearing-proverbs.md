@@ -1,10 +1,10 @@
 ---
-layout: essay-layout.njk 
+extends: _layouts.essay
+section: essay_body
 title: Hearing Proverbs
 date: 2020-01-31
 verse: Do not move an ancient landmark / or enter the fields of the fatherless, / for their Redeemer is strong; / he will plead their cause against you.
 citation: Proverbs 23:10-11
-tags: ['essay']
 ---
 
 I always come back to Proverbs.  It's my pole star.  I sit in my kitchen - before first light, while the rest of the house sleeps around me - and I read Proverbs.  And the more I read it, the more I come to see it as a sort of blueprint describing the momentum that keeps us all, and our natures, in motion.  In turn, the movements of God's nature and ours become apparent, like the inside of my head is a planetarium - the verses and chapters and various characters (the wise man and the fool, Wisdom and Folly) wheeling across my field of vision like constellations.  Proverbs is not so much a description of *what* we ought to be doing with ourselves and our lives, but a description of *how* the world and its creator work.

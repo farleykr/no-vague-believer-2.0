@@ -1,10 +1,10 @@
 ---
-layout: essay-layout.njk
+extends: _layouts.essay
+section: essay_body
 title: Asleep in the Hinder Part
 verse: "And the same day, when the evening was come, he saith unto them, Let us pass over unto the other side. And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships. And there arose a great storm of wind, and the waves beat into the ship, so that it was now full. And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?"
-citation: Mark 4:35-37 (KJV)
+citation: Mark 4:35-37
 date: 2020-10-08
-tags: ['essay']
 --- 
 
 There aren't many things I love more than sleep.  Not just at night but daytime naps too—especially naps.  I've been taking regular naps since high school.  The more frequent they are and the longer they last, the better. Sometimes I can nap for as long as three hours.
