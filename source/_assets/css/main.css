@@ -15,15 +15,11 @@
 }
 
 html {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: harbour-md;
-}
-
-.font-serif {
-    font-family: addington-reg;
 }
 
 .harbour-md {
