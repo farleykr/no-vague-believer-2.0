@@ -1,7 +1,7 @@
 ---
 extends: _layouts.essay
 section: essay_body
-title: Time and Materials
+title: Time & Materials
 date: 2020-12-17
 --- 
 
