@@ -3,6 +3,8 @@
         <h2 class="text-xl uppercase underline">
             <a href="/">No Vague Believer</a>
         </h2>
-        <button class="px-2 border border-gray-100">subscribe</button>
+        <button class="px-2 border border-gray-100">
+            <a href="#subscribe">subscribe</a>
+        </button>
     </div>
 </header>

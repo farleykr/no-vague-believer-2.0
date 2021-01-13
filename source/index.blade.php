@@ -1,8 +1,8 @@
 @extends('_layouts.master')
 
 @section('body')
-<div class="p-2 mb-24">
-    <section id="newest" class="mb-24">
+<div class="px-2">
+    <section id="newest">
         <div class="text-center my-20">
             <p class="uppercase">Newest Essay</p>
             <h1 class="text-4xl leading-9 my-2">{{ $essays->first()->title }}</h1>

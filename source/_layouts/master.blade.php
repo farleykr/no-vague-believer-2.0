@@ -16,6 +16,7 @@
             <main class="flex-grow max-w-xl m-auto">
                 @yield('body')
             </main>
+            @include('_partials.subscribe')
             @include('_partials.footer')
         </div>
     </body>
