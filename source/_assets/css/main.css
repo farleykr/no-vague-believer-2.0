@@ -14,8 +14,17 @@
          url('../fonts/CoupletCF-Regular.woff') format('woff');
 }
 
+@font-face {
+    font-family: hercules-text;
+    src: url('../fonts/HerculesText.woff') format('woff');
+}
+
 html {
     font-size: 20px;
+}
+
+.font-serif {
+    font-family: hercules-text;
 }
 
 .font-sans {
