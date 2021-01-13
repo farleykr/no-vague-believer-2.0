@@ -1,3 +1,5 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   purge: {
     content: [
@@ -5,6 +7,9 @@ module.exports = {
       'source/**/*.md',
       'source/**/*.html',
     ]
+  },
+  colors: {
+    gray: colors.trueGray,
   },
   theme: {
     extend: {},
