@@ -1,5 +1,5 @@
 <section id="archive" class="mb-12">
-    <p class="py-6 uppercase text-center border-b border-gray-400">All Essays</p>
+    <h3 class="py-6 uppercase text-center border-b border-gray-400 font-sans">All Essays</h3>
     <ul>
         @foreach($essays as $essay)
             @if($loop->last)

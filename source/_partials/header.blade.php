@@ -4,7 +4,7 @@
             <a href="/">No Vague Believer</a>
         </h2>
         <button class="px-2 border border-gray-100">
-            <a href="#subscribe">subscribe</a>
+            <h6><a href="#subscribe">subscribe</a></h6> 
         </button>
     </div>
 </header>

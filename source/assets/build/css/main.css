@@ -31168,8 +31168,34 @@ video {
           animation: bounce 1s infinite;
 }
 
+@font-face {
+  font-family: harbour-md;
+
+  src: url('../fonts/Harbour-md.woff2') format('woff2'),
+         url('../fonts/Harbour-md.woff') format('woff');
+}
+
+@font-face {
+  font-family: addington-reg;
+
+  src: url('../fonts/AddingtonCF-Regular.woff2') format('woff2'),
+         url('../fonts/AddingtonCF-Regular.woff') format('woff');
+}
+
 html {
   font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: harbour-md;
+}
+
+.font-serif {
+  font-family: addington-reg;
+}
+
+.harbour-md {
+  font-family: harbour-md;
 }
 
 .essay-body > p {

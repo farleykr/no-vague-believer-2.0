@@ -4,9 +4,11 @@
 <div class="px-2">
     <section id="newest" class="mb-12">
         <div class="text-center my-20">
-            <p class="uppercase">Newest Essay</p>
-            <h1 class="text-4xl leading-9 my-2">{{ $essays->first()->title }}</h1>
-            <date class="block mb-3">{{ date('m/d/Y', $essays->first()->date) }}</date>
+            <p class="uppercase font-sans">Newest Essay</p>
+            <p class="my-2 harbour-md font-bold">/</p>
+            <h1 class="text-4xl leading-9">{{ $essays->first()->title }}</h1>
+            <p class="my-2 harbour-md font-bold">/</p>
+            <date class="block mb-3 font-sans">{{ date('m/d/Y', $essays->first()->date) }}</date>
         </div>
 
         <div class="essay-body">

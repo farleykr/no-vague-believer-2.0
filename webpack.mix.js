@@ -14,3 +14,5 @@ mix.jigsaw()
         processCssUrls: false,
     })
     .version();
+
+mix.copyDirectory('source/_assets/fonts', 'source/assets/build/fonts');
