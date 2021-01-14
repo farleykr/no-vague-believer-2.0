@@ -31183,6 +31183,13 @@ video {
 }
 
 @font-face {
+  font-family: couplet-demi;
+
+  src: url('../fonts/CoupletCF-DemiBold.woff2') format('woff2'),
+         url('../fonts/CoupletCF-DemiBold.woff') format('woff');
+}
+
+@font-face {
   font-family: hercules-text;
 
   src: url('../fonts/HerculesText.woff') format('woff');
@@ -31198,6 +31205,10 @@ html {
 
 .font-sans {
   font-family: couplet-reg;
+}
+
+.font-bold {
+  font-family: couplet-demi;
 }
 
 h1, h2, h3, h4, h5, h6 {

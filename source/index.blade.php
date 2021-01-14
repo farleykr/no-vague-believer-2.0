@@ -1,12 +1,12 @@
 @extends('_layouts.master')
 
 @section('body')
-<div class="px-2">
+<div class="px-3">
     <section id="newest" class="mb-12">
         <div class="text-center my-16">
-            <p class="text-xl uppercase font-sans tracking-wider">Newest Essay</p>
+            <p class="inline-block text-xl text-gray-800 uppercase font-sans tracking-wider">Newest Essay</p>
             <h1 class="text-5xl leading-none py-4">{{ $essays->first()->title }}</h1>
-            <date class="inline-block mb-3 pt-3 font-sans tracking-wide border-t border-gray-400">{{ date('F j, Y', $essays->first()->date) }}</date>
+            <date class="inline-block mb-3 font-sans text-gray-800 tracking-wide">{{ date('F j, Y', $essays->first()->date) }}</date>
         </div>
         <div class="essay-body">
             <aside class="mb-4 py-3 text-center border-t border-b border-gray-200">
@@ -18,7 +18,7 @@
                 @endif
             </aside>
             {!! $essays->first()->getContent() !!}
-            <p class="text-right font-sans italic">&mdash; {{ $page->author }} </p>
+            <p class="text-right harbour-md italic">&mdash; {{ $page->author }} </p>
         </div>
     </section>
     
