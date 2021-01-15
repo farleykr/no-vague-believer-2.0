@@ -2,13 +2,19 @@
 extends: _layouts.essay
 section: essay_body
 title: Like an Ass Between Two Burdens
-verse: Issachar is a strong ass couching down between two burdens.
-citation: Genesis 49:14
 date: 2021-01-15
---- 
+verse: Issachar is a strong ass couching down between two burdens./ And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute.
+citation: Genesis 49:14-15
+---
 
-My son is fascinated with garbage trucks and garbage collectors. He's been asking us to bring an old grocery bag with us on our walks around the neighborhood so he can fill it with the litter he finds.  Candy wrappers, old napkins, cigarette butts, crushed cans, and even shoes go in the bag.  If a garbage collector is one who is employed to collect and dispose of garbage, Delton is authenticated as a garbage collector by doing that work. Even if he is self employed.
+On January 6th, my Grandpop—C.L. Reynolds—succumbed to the COVID-19 virus.  This morning, at 10:27, it took my Grandmom—Carrie Lee Reynolds. I'm couched down between the weight of these twin burdens of death.  
 
-Jesus, the Son, employed by the Father, is authenticated as the Christ by fulfilling the job description.  From his birth, right on through his death and resurrection, he fit the bill in person and work: Conceived by the Holy Spirit, born of the Virgin Mary, crucified, died, buried, descended to the dead, rose on the third day.  Our beloved Apostle's Creed tells us as much. *...there are also many other things that Jesus did. Were every one of them to be written, I suppose that the world itself could not contain the books that would be written.*
+A friend of mine used to say *there's no more fight left in this dog*.  When found naked on the side of the road, Jeffrey Chaucer tells Sir Ulrich von Liechtenstein that he's trudging. *To trudge: the slow, weary, depressing yet determined walk of a man who has nothing left in life except the impulse to simply soldier on*. I find myself alternating between trudging and weeping and sometimes doing both at the same time.
 
-When He showed His time and materials contract to the two slow believers on their way to Emmaus, imagine how they quickened to realize He also paid the bill.
+What a colossal jape is death—Satan's impotent fury. He came 'round, mocking justice and consuming iniquity, with his unequal weights and false scales. The burden of death is having to put up with Satan's bullshit.  
+
+Jesus often compares us to sheep but I swear sometimes I just feel like an ass between two burdens: bemused at the saddlebags across my back while I watch the young thoroughbreds trucking royalty with their heads held high.
+
+My dad—the ass who sired me—said one time that at his funeral I should tell people "I promise you he's more happy now than he ever was when he was alive."  Sometimes I feel like I can see the good rest and the pleasant land and I'm inclined to give my sons the same instructions about my own funeral.
+
+I guess if I were the ass carrying Jesus—O' what a blessed burden—into Jerusalem for his Triumphal Entry I'd be really hoping he meant it when he said his burden was light.
