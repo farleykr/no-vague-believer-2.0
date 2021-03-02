@@ -17,6 +17,13 @@
                     @endif
                     <p class="italic">{{ $page->subheading }}</p>
                 </aside>
+                
+            @endif
+            
+            @if($page->question)
+            <aside class="mb-4 py-3 text-center border-t border-b border-gray-200">
+                    <p class="italic">{{ $essays->first()->question }}</p>
+                </aside>
             @endif
             @yield('essay_body')
             <p class="text-right italic harbour-md">&mdash; {{ $page->author }} </p>
