@@ -8,11 +8,8 @@ mix.jigsaw()
     .js('source/_assets/js/main.js', 'js')
     .postCss('source/_assets/css/main.css', 'css', [
         require('postcss-import'),
-        require('tailwindcss'),
     ])
     .options({
         processCssUrls: false,
     })
     .version();
-
-mix.copyDirectory('source/_assets/fonts', 'source/assets/build/fonts');

@@ -1,54 +1,24 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
-@font-face {
-    font-family: harbour-md;
-    src: url('../fonts/Harbour-md.woff2') format('woff2'),
-         url('../fonts/Harbour-md.woff') format('woff');
+header, main, footer {
+    max-width: 54em;
+    margin: auto;
 }
 
-@font-face {
-    font-family: couplet-reg;
-    src: url('../fonts/CoupletCF-Regular.woff2') format('woff2'),
-         url('../fonts/CoupletCF-Regular.woff') format('woff');
+header {
+    padding: 3em 0;
 }
 
-@font-face {
-    font-family: couplet-demi;
-    src: url('../fonts/CoupletCF-DemiBold.woff2') format('woff2'),
-         url('../fonts/CoupletCF-DemiBold.woff') format('woff');
+footer {
+    margin-top: 3em;
+    border-top: 1px solid black;
 }
 
-@font-face {
-    font-family: hercules-text;
-    src: url('../fonts/HerculesText.woff') format('woff');
+ul {
+    padding: 0;
+    list-style: none;
 }
 
-html {
-    font-size: 20px;
-}
-
-.font-serif {
-    font-family: hercules-text;
-}
-
-.font-sans {
-    font-family: couplet-reg;
-}
-
-.font-bold {
-    font-family: couplet-demi;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: harbour-md;
-}
-
-.harbour-md {
-    font-family: harbour-md;
-}
-
-.essay-body > p {
-    @apply mb-2
+.essay {
+    margin-bottom: 3em;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
